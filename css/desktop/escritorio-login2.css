@@ -1,6 +1,33 @@
+.general-background{
+    background:linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    display: flex;
+}
+.login2-formulario{
+    background-color: white;
+    border-radius: 4rem 4rem 4rem 4rem;
+    width: 55rem;
+    margin-left: 19rem;
+    
+}
 .login2-background{
     height: 100vh;
 }
 .login2-background img{
     width: 35rem;
+}
+.login2-background .lapiz_img{
+    width: 40rem;
+    height: 15rem;
+    position: absolute;
+    right: 29rem;
+    top: 30rem;
+}
+.formulario-label {
+    width: 41rem;
+    margin-left: -6rem;
+}
+.formulario button {
+    width: 45rem;
+    margin-left: -8rem;
+    
 }
